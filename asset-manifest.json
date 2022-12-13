@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Muzyka97/react-router.git/static/css/main.c3d5249d.css",
+    "main.js": "/Muzyka97/react-router.git/static/js/main.0c42e21b.js",
+    "static/js/743.0e2587b6.chunk.js": "/Muzyka97/react-router.git/static/js/743.0e2587b6.chunk.js",
+    "static/js/7.c5368089.chunk.js": "/Muzyka97/react-router.git/static/js/7.c5368089.chunk.js",
+    "static/js/798.c7a132cb.chunk.js": "/Muzyka97/react-router.git/static/js/798.c7a132cb.chunk.js",
+    "static/js/828.12148ba6.chunk.js": "/Muzyka97/react-router.git/static/js/828.12148ba6.chunk.js",
+    "index.html": "/Muzyka97/react-router.git/index.html",
+    "main.c3d5249d.css.map": "/Muzyka97/react-router.git/static/css/main.c3d5249d.css.map",
+    "main.0c42e21b.js.map": "/Muzyka97/react-router.git/static/js/main.0c42e21b.js.map",
+    "743.0e2587b6.chunk.js.map": "/Muzyka97/react-router.git/static/js/743.0e2587b6.chunk.js.map",
+    "7.c5368089.chunk.js.map": "/Muzyka97/react-router.git/static/js/7.c5368089.chunk.js.map",
+    "798.c7a132cb.chunk.js.map": "/Muzyka97/react-router.git/static/js/798.c7a132cb.chunk.js.map",
+    "828.12148ba6.chunk.js.map": "/Muzyka97/react-router.git/static/js/828.12148ba6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.0c42e21b.js"
+  ]
+}
